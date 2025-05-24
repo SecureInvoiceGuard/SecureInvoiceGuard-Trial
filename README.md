@@ -15,7 +15,7 @@
 Visit the [Releases](https://github.com/yourusername/SecureInvoiceGuard-Trial/releases) page to download the latest `.exe` installer.
 
 ## Licensing
-To purchase a license, visit [your website link here].
+To purchase a license, visit https://sinvoiceguard.weebly.com
 
 ## Contact
 Email: sinvoiceguard@gmail.com
